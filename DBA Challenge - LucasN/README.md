@@ -41,4 +41,4 @@ Durante o desenvolvimento das consultas, segui um fluxo de trabalho iterativo e 
 ---
 
 *Desafio realizado por Nicholas-datahub (Lucas Nicholas Araújo Barbosa).*\
-*Challenge by *[*Coodesh*](https://coodesh.com/)
+*Challenge by* [*Coodesh*](https://coodesh.com/)
